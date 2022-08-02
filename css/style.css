@@ -1,0 +1,52 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: ;
+}
+header {
+	height: 120px;
+	background-color: rgb(255, 176, 47);
+}
+h1 {
+	font-family: arial;
+    font-size: 26px;
+    margin-left: 15px;
+    width: 500px;
+    text-align: center;
+    margin-top: -60px;
+    margin-bottom: 100px;
+}
+figure {
+	margin-left: 260px;
+	width: 970px;
+	height: 360px;
+	border: 2px solid black;
+}
+figure img {
+	width: 459px;
+	height: 250px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border: 2px solid black;
+	display: inline-block;
+}
+figure h4 {
+	display: inline-block;
+	font-family: arial;
+	margin-left: 10px;
+    margin-right: 376px;
+}
+figure p {
+	width: 400px;
+	text-align: justify;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 73px;
+}
+section {
+	border: 10px solid rgb(255, 176, 47);
+	height: 581px;
+}
